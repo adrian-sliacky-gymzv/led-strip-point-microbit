@@ -1,4 +1,4 @@
-# A point on Microbit
+# A point on LED strip on MicroBit 
 
 ## To open/edit this repository in MakeCode: 
 * open **[https://makecode.microbit.org/](https://makecode.microbit.org/)**
